@@ -1,0 +1,11 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "main": "code.js",
+  "repository": "git@github.com:cdaloisio/game-of-life.git",
+  "author": "Chris D'Aloisio <chris@portable.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
